@@ -1,3 +1,3 @@
 # amazon-clone
 <br>
-Auther - Vivek kumar mahato
+Author - Vivek kumar mahato
